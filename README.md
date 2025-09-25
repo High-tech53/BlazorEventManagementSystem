@@ -1,2 +1,2 @@
 # BlazorEventManagementSystem
-Blazor Management System App Developed by .Net 
+Blazor Event Management System App Developed by .Net 
